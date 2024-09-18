@@ -1,6 +1,6 @@
 [project]
 name = "ice_estimation"
-version = "0.0.1"
+version = "1.0.0"
 authors = [
   { name = "Naseem Alsadi", email = "nalsadi01@gmail.com" },
 ]
